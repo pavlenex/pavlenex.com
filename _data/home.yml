@@ -1,27 +1,27 @@
 navbar_entries:
-  - title: about
+  - title: 🏠 Home
+    url: https://pavlenex.com
+
+  - title: 🧑‍💻 About
     url: about
 
-  - title: blog
+  - title: 📝 Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
+  - title: BTCPay Server
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Bitcoin Design
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Stratum
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Bitcoin Smiles
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
@@ -38,7 +38,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -97,5 +97,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
