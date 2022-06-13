@@ -8,27 +8,30 @@ navbar_entries:
   - title: 📝 Blog
     url: blog
 
+  - title: 🥳 Donate
+    url: https://donate.pavlenex.com
+
 project_entries:
   - title: BTCPay Server
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Free, open source & self-hosted bitcoin payment processor for self-sovereign individuals and businesses.
 
   - title: Bitcoin Design
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Open-source design guidelines & research for bitcoin product builders.
 
-  - title: Stratum
+  - title: Stratum v2
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Next-generation mining protocol for bitcoin.
 
   - title: Bitcoin Smiles
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Non-profit project raised over 2 BTC to provide free dental care to impoverished people living in rural areas of El Salvador.
     highlight: WIP
 
-  - title: Project 5
+  - title: Dvadeset Jedan
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Co-founded local bitcoin community in Serbia with established meetups, workshops and regular podcast.
     highlight: WIP
 
   - title: Project 6
