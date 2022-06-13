@@ -1,9 +1,10 @@
-title: Pavlenex
+title: 👋 I'm Pavlenex.
 author: Pavlenex
 url: https://pavlenex.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  👋 Yo, I'm Pavlenex. I'm a product manager (janitor 🧹) in Bitcoin.
-  I help and empower talented people in open-source to build great things.
+  Product manager (janitor 🧹) in Bitcoin & open-source.
+  Empowering talented people to build great things.
+  I do everything and nothing. I'm everywhere and nowehere.
 
 permalink: /:slug
 
