@@ -35,11 +35,23 @@ project_entries:
   - title: Spiral 🌀
     url: https://spiral.xyz
     desc: I am a Spiral grantee. They once said I'm one the most boundary pushing PMs in bitcoin, but that's because I bribed them with akward Serbian music.
+
 old_project_entries:
   - title: BitcoinShirt.co 🛍️
     url: https://bitcoinshirt.co
     desc: Founded an e-commerce buisness powered by bitcoin. One man operation from development, support to strategy.
     highlight: Completed
+
+  - title: Bitcoin.org  🌐
+    url: https://bitcoin.org/sr/
+    desc: I was a translating coordinator for Serbian for bitcoin.org and localized 90% of the website in Serbian.
+    highlight: Completed
+
+  - title: Bitcoin Core  🌐
+    url: https://bitcoin.org/sr/
+    desc: I contributed to Bitcoin Core by translating it into Serbian.
+    highlight: Completed
+
 
 footer_entries:
 
