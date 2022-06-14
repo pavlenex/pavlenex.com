@@ -3,7 +3,7 @@ layout: post
 title: Media
 ---
 
-Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCYXly5XM_SO07vLHh2yPlCw), I am always opened to appearing on other podcasts or media.
+Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCYXly5XM_SO07vLHh2yPlCw), I've appeared on a few podcasts and held a few workshops and presentations listed below. Always open to appearing on other podcasts and conferences.
 
 ## Podcasts 🎙️
 
@@ -18,8 +18,8 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 - [2019 Contrarian Island #8: Pavlenex - BTCPay Server](https://open.spotify.com/episode/0NQAP1mN4ilSdBa9FGquzx)
 - [2019 Pavlenex: BTCPay Server Contributor - Bitcoin Rapid Fire](https://poddtoppen.se/podcast/1476958861/bitcoin-rapid-fire/pavlenex-btcpay-server-contributor)
 
-## Conferences, workshops & public speaking 🗣️
+## Conferences & public speaking 🗣️
 
+- 2022 Lightning Hackday Istanbul BTCPay Workshop
 - 2019 Lightning Hackday Berlin BTCPay Workshop
 - 2019 BTCPay Day Riga opening keynote
-- 2022 Lightning Hackday Instabul BTCPay Workshop

@@ -28,11 +28,11 @@ project_entries:
     desc: I'm still learning about Stratum protocol. Trying to help structure a small team of contributors, roadmap, and bring adoption to the next-gen mining protocol.
 
   - title: Bitcoin Smiles 🇸🇻
-    url: overview-post
+    url: https://bitcoinsmiles.org
     desc: Non-profit project raised over 2 BTC to provide free dental care to impoverished people living in rural areas of El Salvador.
 
   - title: Dvadeset Jedan 🎙️
-    url: overview-post
+    url: https://anchor.fm/dvadesetjedan/
     desc: Co-founded local bitcoin community in Serbia with established meetups, workshops, and regular podcasts.
 
   - title: Spiral 🌀
