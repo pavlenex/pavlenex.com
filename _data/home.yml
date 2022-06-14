@@ -32,6 +32,10 @@ project_entries:
     url: overview-post
     desc: Co-founded local bitcoin community in Serbia with established meetups, workshops, and regular podcasts.
 
+  - title: Spiral 🌀
+    url: https://spiral.xyz
+    desc: I am a Spiral grantee. They say I'm one of the most [boundary-pushing PMs](https://twitter.com/spiralbtc/status/1496529754282938372?s=20&t=hc7zML8ZXcd5g0lA7ec9yg) in bitcoin, but this is only because I spam their DMs with akward music choices.
+
 old_project_entries:
   - title: BitcoinShirt.co 🛍️
     url: https://bitcoinshirt.co
