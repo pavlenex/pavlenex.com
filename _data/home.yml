@@ -51,7 +51,7 @@ old_project_entries:
     highlight: Completed
 
   - title: Bitcoin Core  🌐
-    url: https://bitcoin.org/sr/
+    url: https://www.transifex.com/bitcoin/bitcoin/
     desc: I contributed to Bitcoin Core by translating it into Serbian.
     highlight: Completed
 
