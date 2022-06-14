@@ -23,7 +23,7 @@ project_entries:
     highlight: Project manager
 
   - title: Stratum v2 ⛏️
-    url: stratum-mining/stratum: stratum
+    url: https://github.com/stratum-mining/stratum
     desc: I'm still learning. Trying to help structure a small team of contributors, roadmap, and bring adoption to the next-gen mining protocol.
     highlight: Project manager
 
