@@ -14,15 +14,15 @@ navbar_entries:
 project_entries:
   - title: BTCPay Server 💚
     url: https://btcpayserver.org
-    desc: Owning the roadmap, strategy, and release cycles. Helping a worldwide distributed team of engineers, designers, testers, and translators work better together and execute features our users want.
+    desc: Owning the roadmap, strategy, and release cycles. Helping a worldwide distributed team of engineers, designers, testers, and translators work better together.
 
   - title: Bitcoin Design 🎨
     url: https://bitcoin.design/guide/
-    desc: Helped structure the release cycles and a roadmap. Participated in project maintenance by reviewing and merging pull requests and onboarded new contributors by reducing entry barriers.
+    desc: Structured the release cycles and a roadmap. Participated in project maintenance by reviewing and pr's and onboarded new contributors by reducing entry barriers.
 
   - title: Stratum v2 ⛏️
     url: https://github.com/stratum-mining/stratum
-    desc: I'm still learning. Trying to help structure a small team of contributors, roadmap, and bring adoption to the next-gen mining protocol.
+    desc: I'm still learning about Stratum protocol. Trying to help structure a small team of contributors, roadmap, and bring adoption to the next-gen mining protocol.
 
   - title: Bitcoin Smiles 🇸🇻
     url: overview-post
