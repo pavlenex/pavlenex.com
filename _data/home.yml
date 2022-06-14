@@ -12,49 +12,36 @@ navbar_entries:
     url: https://donate.pavlenex.com
 
 project_entries:
-  - title: BTCPay Server
-    url: overview-post
-    desc: Free, open source & self-hosted bitcoin payment processor for self-sovereign individuals and businesses.
+  - title: BTCPay Server 💚
+    url: https://btcpayserver.org
+    desc: Owning the roadmap, strategy, and release cycles. Helping a worldwide distributed team of engineers, designers, testers, and translators work better together and execute features our users want.
+    highlight: Product owner
 
-  - title: Bitcoin Design
-    url: overview-post
-    desc: Open-source design guidelines & research for bitcoin product builders.
+  - title: Bitcoin Design 🎨
+    url: https://bitcoin.design/guide/
+    desc: Helped structure the release cycles and a roadmap. Participated in project maintenance by reviewing and merging pull requests and onboarded new contributors by reducing entry barriers.
+    highlight: Project manager
 
-  - title: Stratum v2
-    url: overview-post
-    desc: Next-generation mining protocol for bitcoin.
+  - title: Stratum v2 ⛏️
+    url: stratum-mining/stratum: stratum
+    desc: I'm still learning. Trying to help structure a small team of contributors, roadmap, and bring adoption to the next-gen mining protocol.
+    highlight: Project manager
 
-  - title: Bitcoin Smiles
+  - title: Bitcoin Smiles 🇸🇻
     url: overview-post
     desc: Non-profit project raised over 2 BTC to provide free dental care to impoverished people living in rural areas of El Salvador.
-    highlight: WIP
+    highlight: Lead
 
-  - title: Dvadeset Jedan
+  - title: Dvadeset Jedan 🎙️
     url: overview-post
-    desc: Co-founded local bitcoin community in Serbia with established meetups, workshops and regular podcast.
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Co-founded local bitcoin community in Serbia with established meetups, workshops, and regular podcasts.
+    highlight: Co-founder
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: BitcoinShirt.co 🛍️
+    url: https://bitcoinshirt.co
+    desc: Founded an e-commerce buisness powered by bitcoin. One man operation from development, support to strategy.
+    highlight: Founder
 
 footer_entries:
 
