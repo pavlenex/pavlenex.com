@@ -49,10 +49,11 @@ Well defined tasks in a form of GitHub issue, and proper label are more likely t
 
 ## Grouping tasks into milestones 🏆+
 
+A milestone is a group of tasks that together marks an important achievement with a time-frame. It can be a new feature or a release version. Personally I think of `milestones` as `sprints`. That's a period of 2-4 weeks where we group a series of tasks that would allow us to reach an important goal. Most of the projects I worked on, a new software `version` is great for milestones.
+
 [Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
 
 ![Defining project goals](/images/github-milestones.png)
-
 
 ## Creating a GitHub project board 🥳
 
