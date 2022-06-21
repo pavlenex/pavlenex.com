@@ -39,19 +39,20 @@ Once that is done, you'll probably end up with a giant list of unstructured note
 
 ## Breaking goals into tasks 📝
 
-Once you define the major goals, try to think of smaller tasks that would allow you to achieve those goals. Consult your community and contributors. These can be discussed in follow up calls or async. To better keep track of tasks, it’s good practice to [create a GitHub issue](https://docs.github.com/en/issues) for every task.
+Once you define the major goals, try to think of smaller tasks that are needed to achieve the goals. Consult your community and contributors. These can be discussed in follow up calls or async. To better keep track of tasks, it’s good practice to [create a GitHub issue](https://docs.github.com/en/issues) for every task.
 
-Think of a GitHub issue as a ticket which allows you to keep a track of a task. Sometimes an issue can be a bug report that you need to address or a feature request you’d like to work on. A good Github issue provides a well-defined task, outlines the potential solution and contains a proper label. In case of a bug report it should contain detailed information about the environment, steps to replicate and log output.
+Think of a GitHub issue as a ticket which allows you to keep a track of a task. Sometimes an issue can be a bug report that you need to address or a feature request you’d like to work on. A good Github issue provides a well-defined task, outlines the potential solution and contains a proper label. In case of a bug report it should contain detailed information about the environment, steps to replicate and log output. You can even have a group of small tasks [within a single issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists).
 
 ![Defining project goals](/images/github-issue.png)
 
-Well defined tasks in a form of GitHub issue, and proper label are more likely to attract new contributors to your project. Make sure to use `good first issue` label for simple tasks any newcomer can tackle, they really help.
+Think of a GitHub issues as your project to-do. I'll provide some tips on managing issues in a follow up post.
+A well defined and properly labeled task in a form of GitHub issue is more likely to attract new contributors to your project and provide clarity to existing contributors. Make sure to use `good first issue` label for simple tasks any newcomer can tackle, they really help.
 
 ## Grouping tasks into milestones 🏆+
 
-A milestone is a group of tasks that together marks an important achievement with a time-frame. It can be a new feature or a release version. Personally I think of `milestones` as `sprints`. That's a period of 2-4 weeks where we group a series of tasks that would allow us to reach an important goal. Most of the projects I worked on, a new software `version` is great for milestones.
+A [milestone](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) is a group of tasks that together marks an important achievement with a time-frame. It can be a new feature or a release version. Personally I think of `milestones` as `sprints`. That's a period of 2-4 weeks where we group a series of tasks that would allow us to reach an important goal. Most of the projects I worked on, a new software `version` is great for milestones. A milestone can also be an existing feature, but if you're working on multiple features at a time, it's better to introduce a milestone that will keep those grouped.
 
-[Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
+Now that you have a list of tasks in a form of GitHub issues, all you have to do is group issues into milestones. You can provide a time-frame for the milestone. Having a target date helps with productivity.
 
 ![Defining project goals](/images/github-milestones.png)
 
