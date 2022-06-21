@@ -84,4 +84,4 @@ Remember that no matter how corporate a "roadmap" sounds, it doesn't have to be 
 
 Once you reach a milestone, don't forget to celebrate it. Having a celebratory moment means a lot for the chemistry within a community. And once that is done, repeat the process. Roadmaps aren't one-way maps. It's constantly reflected, improved, and iterated.
 
-If you found this post useful or have suggestions on how to improve it, please let me know on Twitter. This is just my workflow, and I hope it will help you create the flow that works best for you and your team.
+If you found this post useful or have suggestions on how to improve it, please [let me know on Twitter](https://twitter.com/pavlenex). This is just my workflow, and I hope it will help you create the flow that works best for you and your team.
