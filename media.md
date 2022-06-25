@@ -10,6 +10,7 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 - [2022 Understanding BTCPay Server for Businesses](https://www.mentorsofficepodcast.com/episodes/7gn3g0gybq44twna8nxycol1fc1xdm-y3h7a-lw9ge-94tp2-xx8f5-g9kcl-desde-ckb7g)
 - [2022 CD57: bitcoin crowdfunding and donations with @coinjoiner, @pavlenex, and tony](https://anchor.fm/citadeldispatch/episodes/CD57-bitcoin-crowdfunding-and-donations-with-coinjoiner--pavlenex--and-tony-e1epg0v)
 - [2022 SLP343 R0CKSTAR DEV & PAVLENEX – CAREER OPPORTUNITIES IN BITCOIN OPEN SOURCE](https://stephanlivera.com/episode/343/)
+- [2022 IBEXPODCAST No. 18 - BTCPay Server](https://youtu.be/3IRG7uPwBX0)
 - [2022 S11 E1: Pavlenex & Kukks On BTCPay Server, Soft Simon On Mempool](https://youtu.be/vd0lhBywykI)
 - [2021 Pavlenex - Full Interview - To The Moon Episode 26](https://youtu.be/sd1YQrLL6XM)
 - [2021 Bitcoin is Not for Everybody, it’s for Anybody - Brittttt and Pavlenex](https://blog.okcoin.com/ok-lets-chat-btcpay/)
