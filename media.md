@@ -5,6 +5,15 @@ title: Media
 
 Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCYXly5XM_SO07vLHh2yPlCw), I've appeared on a few podcasts and held a few workshops and presentations listed below. Always open to appearing on other podcasts and conferences.
 
+## Conferences & public speaking 🗣️
+
+- 2022 Bitcoin 2022 Amsteram, [Introduction to BTCPay Server](https://youtu.be/EDqHFldOcGI)
+- 2022 Surfing Bitcoin Biarritz France - [Introduction to Stratum V2](https://youtu.be/oS1FGdngXVs?t=8738)
+- 2022 BTCPay Server Day Baltic HoneyBadger Riga, Latvia
+- 2022 Lightning Hackday Istanbul BTCPay Workshop
+- 2019 Lightning Hackday Berlin BTCPay Workshop
+- 2019 BTCPay Day Riga opening keynote
+
 ## Podcasts 🎙️
 
 - [2022 Understanding BTCPay Server for Businesses](https://www.mentorsofficepodcast.com/episodes/7gn3g0gybq44twna8nxycol1fc1xdm-y3h7a-lw9ge-94tp2-xx8f5-g9kcl-desde-ckb7g)
@@ -18,9 +27,3 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 - [2019 SLP90 PAVLENEX – BTCPAYSERVER FOR MERCHANTS](https://stephanlivera.com/episode/90/)
 - [2019 Contrarian Island #8: Pavlenex - BTCPay Server](https://open.spotify.com/episode/0NQAP1mN4ilSdBa9FGquzx)
 - [2019 Pavlenex: BTCPay Server Contributor - Bitcoin Rapid Fire](https://poddtoppen.se/podcast/1476958861/bitcoin-rapid-fire/pavlenex-btcpay-server-contributor)
-
-## Conferences & public speaking 🗣️
-
-- 2022 Lightning Hackday Istanbul BTCPay Workshop
-- 2019 Lightning Hackday Berlin BTCPay Workshop
-- 2019 BTCPay Day Riga opening keynote
