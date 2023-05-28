@@ -8,7 +8,7 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 ## Conferences & public speaking 🗣️
 
 - 2022 Bitcoin 2022 Amsteram, [Introduction to BTCPay Server](https://youtu.be/EDqHFldOcGI)
-- 2022 Surfing Bitcoin Biarritz France - [Introduction to Stratum V2](https://youtu.be/oS1FGdngXVs?t=8738)
+- 2022 Surfing Bitcoin Biarritz France - [Introduction to Stratum V2](https://youtu.be/tFAC04jMUbU)
 - 2022 BTCPay Server Day Baltic HoneyBadger Riga, Latvia
 - 2022 Lightning Hackday Istanbul BTCPay Workshop
 - 2019 Lightning Hackday Berlin BTCPay Workshop
