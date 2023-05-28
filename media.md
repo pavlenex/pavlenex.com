@@ -16,7 +16,7 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 
 ## Podcasts 🎙️
 - [2023 Decentralising Bitcoin Transaction Selection using SRI with Pavlenex and Fi3 (SLP477)](https://youtu.be/QU5EDvpdIw4)
-- [2023 Start Accepting Bitcoin Payments With BTCpay Server | Pavlenex)](https://youtu.be/PM-30r94uG4)
+- [2023 Start Accepting Bitcoin Payments With BTCpay Server Pavlenex)](https://youtu.be/PM-30r94uG4)
 - [2022 Understanding BTCPay Server for Businesses](https://www.mentorsofficepodcast.com/episodes/7gn3g0gybq44twna8nxycol1fc1xdm-y3h7a-lw9ge-94tp2-xx8f5-g9kcl-desde-ckb7g)
 - [2022 CD57: bitcoin crowdfunding and donations with @coinjoiner, @pavlenex, and tony](https://anchor.fm/citadeldispatch/episodes/CD57-bitcoin-crowdfunding-and-donations-with-coinjoiner--pavlenex--and-tony-e1epg0v)
 - [2022 SLP343 R0CKSTAR DEV & PAVLENEX – CAREER OPPORTUNITIES IN BITCOIN OPEN SOURCE](https://stephanlivera.com/episode/343/)
