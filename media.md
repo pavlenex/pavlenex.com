@@ -3,10 +3,10 @@ layout: post
 title: Media
 ---
 
-Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCYXly5XM_SO07vLHh2yPlCw), I've appeared on a few podcasts and held a few workshops and presentations listed below. Always open to appearing on other podcasts and conferences.
-
 ## Conferences & public speaking 🗣️
 
+- 2023 BTCPrague Panel - [Career Building in Bitcoin](https://youtu.be/Ze8P2f6q6Zs)
+- 2023 BTCPrague [Stratum v2 - Fortifing Bitcoin mining](https://youtu.be/mTXw3UZNT0Y?si=BY7wxY5bIykNtPkg)
 - 2022 Bitcoin 2022 Amsteram, [Introduction to BTCPay Server](https://youtu.be/EDqHFldOcGI)
 - 2022 Surfing Bitcoin Biarritz France - [Introduction to Stratum V2](https://youtu.be/tFAC04jMUbU)
 - 2022 BTCPay Server Day Baltic HoneyBadger Riga, Latvia
@@ -15,6 +15,8 @@ Besides co-hosting a [local bitcoin podcast](https://www.youtube.com/channel/UCY
 - 2019 BTCPay Day Riga opening keynote
 
 ## Podcasts 🎙️
+
+- [2023 S14 E11: Pavlenex, Kukks & Anna on BTCPay App](https://youtu.be/kZmIF-4dHNI?si=lauZMzbBJtC7uiWt)
 - [2023 Decentralising Bitcoin Transaction Selection using SRI with Pavlenex and Fi3 (SLP477)](https://youtu.be/QU5EDvpdIw4)
 - [2023 Start Accepting Bitcoin Payments With BTCpay Server Pavlenex)](https://youtu.be/PM-30r94uG4)
 - [2022 Understanding BTCPay Server for Businesses](https://www.mentorsofficepodcast.com/episodes/7gn3g0gybq44twna8nxycol1fc1xdm-y3h7a-lw9ge-94tp2-xx8f5-g9kcl-desde-ckb7g)
