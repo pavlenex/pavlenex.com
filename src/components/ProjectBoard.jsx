@@ -294,7 +294,7 @@ const ProjectBoard = () => {
                              rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-300"
                      aria-hidden="true"></div>
                 <img 
-                  src="/pavlenex.com/pavlenex.jpg"
+                  src="/pavlenex.jpg"
                   alt="Pavlenex - Bitcoin Product Manager"
                   className="relative w-full lg:w-80 h-80 rounded-2xl shadow-2xl object-cover
                            transform group-hover:scale-[1.02] transition-transform duration-300"
