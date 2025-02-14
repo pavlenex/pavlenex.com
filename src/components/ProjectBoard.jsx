@@ -147,7 +147,7 @@ const ProjectBoard = () => {
 
   const socialLinks = useMemo(() => [
     { href: "https://github.com/pavlenex", icon: Github, label: "GitHub Profile" },
-    { href: "https://twitter.com/pavlenex", icon: Twitter, label: "Twitter Profile" },
+    { href: "https://x.com/pavlenex", icon: Twitter, label: "Twitter Profile" },
     { href: "mailto:pavlenex@icloud.com", icon: Mail, label: "Email Contact" }
   ], []);
 
