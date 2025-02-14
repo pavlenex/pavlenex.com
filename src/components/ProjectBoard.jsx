@@ -275,7 +275,7 @@ const ProjectBoard = () => {
                           ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
                 Focused on accelerating Bitcoin adoption through open-source payment solutions 
                 and mining infrastructure. Currently leading product strategy at BTCPay Server 
-                and contributing to Stratum V2.
+                and Stratum V2.
               </p>
               <nav className="flex gap-6" aria-label="Social links">
                 {socialLinks.map((link, index) => (
